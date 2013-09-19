@@ -9,8 +9,6 @@ Facebook like widget plugin
 
 == Description ==
 
-Facebook like widget plugin
-
 You need to set up a Facebook App ID and your Fan Page URL to see HC Facebook Like Widget in your sidebar.
 
 From this widget you get to choose how you want the Facebook like box to be displayed on your page. You can select to display the Facebook Like us header, Show your Facebook fans or show the latest posts in your Facebook stream.
