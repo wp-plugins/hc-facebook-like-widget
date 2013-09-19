@@ -1,9 +1,10 @@
 === HC Facebook Like Widget ===
-Contributors: Liton Arefin
+Contributors: litonice13
+Donate link: http://liton-online.com/donate
 Tags: Facebook, Like, Box, Widget
 Requires at least: 3.0
-Tested up to: 3.6
-Stable tag: trunk
+Tested up to: 3.6.1
+Stable tag: 1.0
  
 Facebook like widget plugin
 
