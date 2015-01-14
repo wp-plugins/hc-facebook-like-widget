@@ -2,16 +2,18 @@
 /*
 Plugin Name: HC Facebook Like Widget
 Description: Facebook like widget plugin
-Plugin URI: http://h2cweb.net/facebook-like-widget-plugin-released
+Plugin URI: http://jeweltheme.com/product/facebook-like-widget-plugin
 Author: Liton Arefin
-Author URI: http://h2cweb.net
-
+Version: 1.0.1
+Author URI: http://www.jeweltheme.com
+License: GPL2
+http://www.gnu.org/licenses/gpl-2.0.html
 */
-add_action('widgets_init','HC_Facebook_like_register');
-function HC_Facebook_like_register(){
-	register_widget( 'HC_Facebook_like' );
+add_action('widgets_init','JewelTheme_Facebook_like_register');
+function JewelTheme_Facebook_like_register(){
+	register_widget( 'JewelTheme_Facebook_like' );
 }
-class HC_Facebook_like extends WP_Widget{
+class JewelTheme_Facebook_like extends WP_Widget{
 
 	/*
 	* Register WordPress Widget
@@ -185,6 +187,4 @@ class HC_Facebook_like extends WP_Widget{
 
 		<?php
 	}
-
-
 }

@@ -1,10 +1,10 @@
 === HC Facebook Like Widget ===
-Contributors: litonice13
+Contributors: litonice13, jwthemeltd
 Donate link: http://liton-online.com/donate
 Tags: Facebook, Like, Box, Widget
-Requires at least: 3.0
-Tested up to: 3.6.1
-Stable tag: 1.0
+Requires at least: 3.8
+Tested up to: 4.1
+Stable tag: 1.0.1
  
 Facebook like widget plugin
 
@@ -20,7 +20,7 @@ All you have to do is install this plugin, drag the widget to where you want to 
 
 As this is a Wordpress Widget it's very easy to install.
 
-1. Upload 'hc-fb-like-box.zip' to the '/wp-content/plugins/'' directory and unzip the file
+1. Upload 'jw-fb-like-box.zip' to the '/wp-content/plugins/'' directory and unzip the file
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Go to the Appearance -> widget screen drag the widget to a sidebar and fill out the options.
 
@@ -32,7 +32,13 @@ As this is a Wordpress Widget it's very easy to install.
 
 
 == Changelog ==
-No Changelog
+= 1.0.1 =
+* Fixed Widget issues
+
+= 1.0.0 =
+* Initial Release
+
+
 
 == Upgrade Notice ==
 
